@@ -1,0 +1,9 @@
+numpy
+pandas
+tqdm
+glob
+PIL
+matplotlib
+cv2
+tensorflow
+flask
